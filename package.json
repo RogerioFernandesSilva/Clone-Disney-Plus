@@ -10,9 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/RogerioFernandesSilva/Clone-Disney-Plus.git"
   },
+  "keywords": [],
   "license": "ISC",
   "author": "Rogério Fernandes",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "gulp watch",
@@ -21,7 +22,7 @@
   },
   "devDependencies": {
     "gulp": "^5.0.0",
-    "gulp-imagemin": "^7.1.0",
+    "gulp-imagemin": "^9.1.0",
     "gulp-sass": "^6.0.1",
     "gulp-uglify": "^3.0.2",
     "sass": "^1.86.0"
