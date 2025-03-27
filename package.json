@@ -1,0 +1,26 @@
+{
+  "name": "clone-disney-plus",
+  "version": "1.0.0",
+  "description": "O intuito é o aprendizado do Clone Disney Plus.",
+  "homepage": "https://github.com/RogerioFernandesSilva/Clone-Disney-Plus#readme",
+  "bugs": {
+    "url": "https://github.com/RogerioFernandesSilva/Clone-Disney-Plus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerioFernandesSilva/Clone-Disney-Plus.git"
+  },
+  "license": "ISC",
+  "author": "Rogério Fernandes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.86.0"
+  }
+}
